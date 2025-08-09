@@ -1,6 +1,5 @@
 # Build an AI Meeting Assistant: Instant Notes, Zero Worries
 
-## Estimated Effort: 45 minutes
 
 In today's fast-paced work environments, creativity and collaboration drive innovation. Teams often participate in brainstorming sessions, strategy meetings, and problem-solving discussions, which are essential for shaping projects and organizational goals. However, the speed and volume of these interactions can pose significant challenges. Key ideas, critical decisions, and actionable tasks often slip through the cracks when relying on traditional manual note-taking methods. With so much information being exchanged, capturing every detail accurately becomes difficult, leading to unclear follow-ups, missed opportunities, and inefficiencies.
 
